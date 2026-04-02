@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/01/20 09:26:38.000.497,=C:\Users\nzivkovic\Documents\Embarcadero\Studio\Projets\Project1PCH1.h</Transaction>
+    <Transaction>2023/01/20 09:26:38.000.500,=C:\Users\nzivkovic\Documents\Embarcadero\Studio\Projets\File1.cpp</Transaction>
+    <Transaction>2023/01/20 09:26:44.000.415,C:\Users\nzivkovic\Documents\Embarcadero\Studio\Projets\Project1.cbproj=C:\Users\nzivkovic\Documents\Embarcadero\Studio\Projets\Project1.cbproj</Transaction>
+    <Transaction>2023/01/20 09:27:04.000.318,=C:\Users\nzivkovic\Documents\Embarcadero\Studio\Projets\PortComDI.cpp</Transaction>
+    <Transaction>2023/01/20 09:27:10.000.445,=C:\Users\nzivkovic\Documents\Embarcadero\Studio\Projets\PortComDI.h</Transaction>
+    <Transaction>2023/01/20 09:27:43.000.710,=C:\Users\nzivkovic\Documents\Embarcadero\Studio\Projets\File1.h</Transaction>
+    <Transaction>2023/01/24 16:45:44.000.157,C:\Users\nzivkovic\Documents\Embarcadero\Studio\Projets\File1.h=</Transaction>
+    <Transaction>2023/02/06 10:29:53.000.252,=C:\Users\nzivkovic\Documents\Embarcadero\Studio\Projets\PortC.cpp</Transaction>
+    <Transaction>2023/02/06 10:29:53.000.257,=C:\Users\nzivkovic\Documents\Embarcadero\Studio\Projets\PortC.h</Transaction>
+    <Transaction>2023/02/06 11:02:23.000.304,=C:\Users\nzivkovic\Documents\Embarcadero\Studio\Projets\PortCom.h</Transaction>
+    <Transaction>2023/02/06 11:02:23.000.301,=C:\Users\nzivkovic\Documents\Embarcadero\Studio\Projets\PortCom.cpp</Transaction>
+  </Transactions>
+</BorlandProject>
